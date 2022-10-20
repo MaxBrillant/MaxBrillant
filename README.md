@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MaxBrillant
-- 👀 I’m interested in Front-end development, UI/UX development, desktop and mobile apps development
-- 🌱 I’m currently learning Javascript, Java, c++
+- 👋 Hi, I’m @MaxBrillant.
+- 👀 I’m interested in desktop and web app development, and UI/UX design.
+- 🌱 I’m currently learning Javascript, Java and SQL.
 - 💞️ I’m looking to collaborate on different exciting projects.
 
 <!---
