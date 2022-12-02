@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxBrillant.
-- 👀 I’m interested in desktop and web app development, and UI/UX design.
+- 👀 I’m interested in desktop/web app development, and UI/UX design.
 - 🌱 I’m currently learning Javascript, Java and SQL.
 - 💞️ I’m looking to collaborate on different exciting projects.
 
